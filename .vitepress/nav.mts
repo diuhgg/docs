@@ -6,7 +6,7 @@ export default [
     },
     {
         text: 'MJ常用命令',
-        link: '/mj常用命令/',
+        link: '/mj常用命令/命令',
         activeMatch: '/mj常用命令/',
     },
     {
