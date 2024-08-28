@@ -1,5 +1,10 @@
 export default [
     {
+        text: '首页',
+        link: '/',
+        
+    },
+    {
         text: 'MJ常用命令',
         link: '/mj常用命令/',
         activeMatch: '/mj常用命令/',
