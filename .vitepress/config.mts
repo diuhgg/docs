@@ -6,13 +6,13 @@ import nav from './nav.mts'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // base:'/docs/',
-  head: [['link', { rel: 'icon', href: '../public/xg.svg' }]],
-  title: "cuirx的文档站",
-  description: "构建知识库",
+  head: [['link', { rel: 'icon', href: 'xg.svg' }]],
+  title: "Cuirx的文档站",
+  description: "Cuirx的文档站",
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '../public/xg.svg',
+    logo: 'xg.svg',
     nav: nav,
 
     sidebar: sidebar,

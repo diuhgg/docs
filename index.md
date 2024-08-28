@@ -2,7 +2,7 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 hero:
-  name: "cuirx的文档站"
+  name: "Cuirx的文档站"
   text: "构建知识库"
   tagline: 好记性不如烂笔头
   actions:
