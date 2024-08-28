@@ -5,6 +5,7 @@ import nav from './nav.mts'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base:'/docs/',
   title: "cuirx的文档站",
   description: "构建知识库",
   themeConfig: {
