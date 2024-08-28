@@ -1,4 +1,8 @@
 :root {
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+    .v-search-input::placeholder {
+      content: '你的自定义提示文字';
+    }
+    
   }
