@@ -13,4 +13,5 @@
 |PowerToys|https://github.com/microsoft/PowerToys|微软开源的系统工具套装，提供了大家想要但是没有的功能，比如文本提取，批量重命名等|
 |CopyQ|	https://github.com/hluk/CopyQ|	剪切板增强工具，例如永久保存剪切板内容，对之前复制内容搜索，保存剪切板中的图片等|
 |MiGPT|	https://github.com/idootop/mi-gpt|	将小爱音箱接入 ChatGPT 和豆包，	https://www.bilibili.com/video/BV1N1421y7qn整活视频，小爱音响接入chatgpt和豆包	|															
-|Stirling-PDF	|https://github.com/Stirling-Tools/Stirling-PDF|	对PDF文件进行操作	|
+|Stirling-PDF	|https://github.com/Stirling-Tools/Stirling-PDF|	对PDF文件进行操作	||
+|rubick|https://rubickcenter.github.io/rubick/|基于 Electron 开源的插件化工具箱||
