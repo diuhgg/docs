@@ -4,13 +4,13 @@ import nav from './nav.mts'
 
 
 
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // base:'/docs/',
   head: [['link', { rel: 'icon', href: 'xg.svg' }]],
   title: "Cuirx的文档站",
   description: "Cuirx的文档站",
-  lang:'zh',
 
 
 

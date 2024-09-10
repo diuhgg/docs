@@ -13,5 +13,11 @@ export default [
         text: '开源项目合集',
         link: '/开源项目合集/',
         activeMatch: '/开源项目合集/',
-    }
+    },
+    {
+        text: 'Steam磁盘写入错误',
+        link: '/steam/磁盘写入错误',
+        activeMatch: '/steam/',
+    },
+    
 ];

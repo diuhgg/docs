@@ -13,6 +13,9 @@ export default{
         items: [
             { text: '目录', link: '/开源项目合集/' },
             { text: 'WeChat Bot', link: '/开源项目合集/WeChat Bot' },
+            { text: '广告滚蛋', link: '/开源项目合集/广告滚蛋' },
+            { text: '目录', link: '/开源项目合集/' },
+            { text: '目录', link: '/开源项目合集/' },
 
         ]
     }]
@@ -22,9 +25,3 @@ export default{
 
 
 
-
-//  [
-//     {
-       
-//     }
-// ]

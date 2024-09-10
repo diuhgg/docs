@@ -7,8 +7,8 @@ hero:
   tagline: 好记性不如烂笔头
   actions:
     - theme: brand
-      text: 说明
-      link: /说明
+      text: 文章列表
+      link: /doc_list
     - theme: alt
       text: 介绍
       link: /说明
